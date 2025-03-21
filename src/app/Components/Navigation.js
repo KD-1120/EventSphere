@@ -76,8 +76,8 @@ export default function Navigation() {
         <NavLinks>
           <NavLink href="#features">✦ Features</NavLink>
           <NavLink href="#pricing">$ Pricing</NavLink>
-          <NavLink href="#templates">⊞ Templates</NavLink>
-          <NavLink href="#resources">⧉ Resources</NavLink>
+          <NavLink href="/templates">⊞ Templates</NavLink>
+          <NavLink href="/resources">⧉ Resources</NavLink>
         </NavLinks>
         <NavButtons>
           <LoginButton variant="link">Login</LoginButton>
